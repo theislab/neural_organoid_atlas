@@ -9,8 +9,8 @@ Reproducibility repository for the [Human Neural Organoid Atlas preprint](https:
 ## Code availability
 The "notebooks" folder in this repository contains the code used to build an analyse HNOCA.
 
-> **Note :construction:**
-> We are currently collecting and uploading all notebooks used in this analysis.
+> **Note**
+> :construction: We are currently collecting and uploading all notebooks used in this analysis.
 > This note wil disappear as soon as all code has been made available via this page.
 
 The "supplemental_files" folder in this repository contains:
