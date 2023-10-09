@@ -7,11 +7,12 @@ Reproducibility repository for the [Human Neural Organoid Atlas preprint](https:
 ![Abstract](https://raw.githubusercontent.com/theislab/neural_organoid_atlas/main/supplemental_files/abstract.jpg)
 
 ## Code availability
-The "notebooks" folder in this repository contains the code used to build an analyse HNOCA.
 
 > **Note**
 > :construction: We are currently collecting and uploading all notebooks used in this analysis.
 > This note wil disappear as soon as all code has been made available via this page.
+
+The "notebooks" folder in this repository contains the code used to build an analyse HNOCA.
 
 The "supplemental_files" folder in this repository contains:
 * Snapseed input file containing our celltype hierarchy with associated marker genes
@@ -20,6 +21,8 @@ The "supplemental_files" folder in this repository contains:
 
 ## Data availability
 
-An pre-release version comprised of the public portion of HNOCA is avalable for download [here](https://hmgubox2.helmholtz-muenchen.de/index.php/s/jWCCdr3SQP7Tprb/download/hnoca_pre-release_public_subset.h5ad) (`hnoca_pre-release_public_subset.h5ad` 40.5 GB).
+An pre-release version comprised of the public portion of HNOCA is avalable for download [here](https://hmgubox2.helmholtz-muenchen.de/index.php/s/jWCCdr3SQP7Tprb/download/hnoca_pre-release_public_subset.h5ad).
+
+Download details: `hnoca_pre-release_public_subset.h5ad` (40.5 GB).
 
 :construction: All data will be released here in due course.
