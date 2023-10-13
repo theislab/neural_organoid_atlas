@@ -23,10 +23,8 @@ The "supplemental_files" folder in this repository contains:
 
 An pre-release version comprised of the public portion of HNOCA is avalable for download [here](https://hmgubox2.helmholtz-muenchen.de/index.php/s/jWCCdr3SQP7Tprb/download/hnoca_pre-release_public_subset.h5ad). Download details: `hnoca_pre-release_public_subset.h5ad` (40.5 GB).
 
-:construction: All data will be released here in due course.
-
 <details>
-<summary>HNOCA metadata legend</summary>
+<summary>HNOCA pre-release metadata legend</summary>
 
 ### .obs keys legend
 \* sfaira-controlled metadata, most controlled by the respective ontology. see here for more details: https://sfaira.readthedocs.io/en/latest/adding_datasets.html#dataset-or-observation-wise
@@ -133,5 +131,7 @@ An pre-release version comprised of the public portion of HNOCA is avalable for 
 | `Notch_inhibitor_raw` | Binary morphogen indicator for differentiation protocol: Notch Inhibitor |
 
 </details>
+
+:construction: All data will be released here in due course.
 
 
