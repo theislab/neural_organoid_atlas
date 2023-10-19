@@ -14,7 +14,7 @@ Reproducibility repository for the [Human Neural Organoid Atlas preprint](https:
 
 The "notebooks" folder in this repository contains the code used to build an analyse HNOCA.
 
-The "integration_evaluation" directory contains the script for scVI, scPoli, and scANVI integration of HNOCA.
+The "integration_evaluation" directory contains the script for scVI, scPoli, and scANVI integration of HNOCA which were used in the integration benchmarking.
 
 The "supplemental_files" folder in this repository contains:
 * Snapseed input file containing our celltype hierarchy with associated marker genes
