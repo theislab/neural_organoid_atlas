@@ -34,9 +34,9 @@ An pre-release version comprised of the public portion of HNOCA is avalable for 
 | .obs key | Description |
 | --- | --- |
 | `annot_level_1` | Level 1 of the final cell-type annotation hierarchy |
-| `annot_level_2` | Level 1 of the final cell-type annotation hierarchy |
-| `annot_level_3` | Level 1 of the final cell-type annotation hierarchy |
-| `annot_level_4` | Level 1 of the final cell-type annotation hierarchy |
+| `annot_level_2` | Level 2 of the final cell-type annotation hierarchy |
+| `annot_level_3` | Level 3 of the final cell-type annotation hierarchy |
+| `annot_level_4` | Level 4 of the final cell-type annotation hierarchy |
 | `annot_region` | Final brain region annotation for neuronal cells |
 | `assay_sc` | * |
 | `assay_differentiation` | * |
