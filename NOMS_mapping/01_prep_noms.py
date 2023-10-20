@@ -8,12 +8,7 @@ import sys
 import numpy as np
 import pandas as pd
 
-import scvi
-from scvi.model.utils import mde
-
 import scanpy as sc
-
-from interfaces import vae_interface
 
 REF_PATH = "/home/fleckj/scratch/data/public_datasets/primary_brain/BraunLinnarsson2022/braun_2022_fetal_brain_v2_common_hv2k.h5ad"
 
