@@ -14,6 +14,10 @@ REF_PATH = "/home/fleckj/scratch/data/public_datasets/primary_brain/BraunLinnars
 
 QUERY_PATH = "/home/fleckj/scratch/data/public_datasets/brain_organoids/AminPasca2023brx/230605_pasca_all_01.h5ad"
 
+print("Loading reference & query data")
+adata_ref = sc.read(REF_PATH)
+print(adata_ref)
+
 adata_q = sc.read(QUERY_PATH)
 print(adata_q)
 
