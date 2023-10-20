@@ -14,8 +14,8 @@ Reproducibility repository for the [Human Neural Organoid Atlas preprint](https:
 
 Directory structure:
 * `figures/` contains scritps to reproduce the plots from the figures in the manuscript.
-* `notebooks/` contains the code used to build an analyse HNOCA.
-* `integration_evaluation/` contains the script for scVI, scPoli, and scANVI integration of HNOCA which were used in the integration benchmarking.
+* `notebooks/` contains the code used to construct, preprocess and annotate HNOCA, compute the transcriptomic similarity comparison and differential compositional analysis.
+* `integration_evaluation/` contains the script for scVI, scPoli, and scANVI integration of HNOCA which were used in the integration benchmarking as well as the script to compute the benchmarking.
 * `primary_mapping/` contains scripts to train a scANVI model on the HDBCA data and map organoid data onto it.
 * `protocol_composition/` contains scripts to perform compositional analysis between organoid protocols.
 * `pseudotime/` contains scripts to compute a real time-informed pseudotime with moscot neural OT.
