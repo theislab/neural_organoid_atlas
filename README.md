@@ -12,14 +12,17 @@ Reproducibility repository for the [Human Neural Organoid Atlas preprint](https:
 > :construction: We are currently collecting and uploading all notebooks used in this analysis.
 > This note wil disappear as soon as all code has been made available via this page.
 
-The "notebooks" folder in this repository contains the code used to build an analyse HNOCA.
-
-The "integration_evaluation" directory contains the script for scVI, scPoli, and scANVI integration of HNOCA which were used in the integration benchmarking.
-
-The "supplemental_files" folder in this repository contains:
-* Snapseed input file containing our celltype hierarchy with associated marker genes
-* Model parameters of our scPoli integration model
-* scPoli sample embedding of HNOCA
+Directory structure:
+* `figures/` contains scritps to reproduce the plots from the figures in the manuscript.
+* `notebooks/` contains the code used to construct, preprocess and annotate HNOCA, compute the transcriptomic similarity comparison and differential compositional analysis.
+* `integration_evaluation/` contains the script for scVI, scPoli, and scANVI integration of HNOCA which were used in the integration benchmarking as well as the script to compute the benchmarking.
+* `primary_mapping/` contains scripts to train a scANVI model on the HDBCA data and map organoid data onto it.
+* `protocol_composition/` contains scripts to perform compositional analysis between organoid protocols.
+* `pseudotime/` contains scripts to compute a real time-informed pseudotime with moscot neural OT.
+* `supplemental_files/` contains:
+  * Snapseed input file containing our celltype hierarchy with associated marker genes
+  * Model parameters of our scPoli integration model
+  * scPoli sample embedding of HNOCA
 
 ## Data availability
 
