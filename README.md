@@ -17,6 +17,7 @@ Directory structure:
 * `notebooks/` contains the code used to construct, preprocess and annotate HNOCA, compute the transcriptomic similarity comparison and differential compositional analysis.
 * `integration_evaluation/` contains the script for scVI, scPoli, and scANVI integration of HNOCA which were used in the integration benchmarking as well as the script to compute the benchmarking.
 * `primary_mapping/` contains scripts to train a scANVI model on the HDBCA data and map organoid data onto it.
+* `NOMCS_mapping/` contains scripts for mapping the neural organoid morphogen screen (NOMS) data onto the HNCOA and primary HDBCA data.
 * `protocol_composition/` contains scripts to perform compositional analysis between organoid protocols.
 * `pseudotime/` contains scripts to compute a real time-informed pseudotime with moscot neural OT.
 * `supplemental_files/` contains:
