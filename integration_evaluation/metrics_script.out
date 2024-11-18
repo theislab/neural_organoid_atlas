@@ -1,221 +1,0 @@
-Removed 3293 duplicate cells (0.002%)
-Computing neighbors:   0%|                                                      | 0/12 [00:00<?, ?it/s]Computing neighbors:   8%|███▌                                      | 1/12 [28:28<5:13:18, 1708.93s/it]Computing neighbors:  17%|███████                                   | 2/12 [55:40<4:37:14, 1663.44s/it]Computing neighbors:  25%|██████████                              | 3/12 [1:21:29<4:01:40, 1611.19s/it]Computing neighbors:  33%|█████████████▎                          | 4/12 [1:46:13<3:28:09, 1561.15s/it]Computing neighbors:  42%|████████████████▋                       | 5/12 [2:08:51<2:53:34, 1487.73s/it]Computing neighbors:  50%|████████████████████                    | 6/12 [2:29:43<2:20:45, 1407.61s/it]Computing neighbors:  58%|███████████████████████▎                | 7/12 [2:51:00<1:53:43, 1364.77s/it]Computing neighbors:  67%|██████████████████████████▋             | 8/12 [3:12:28<1:29:21, 1340.36s/it]Computing neighbors:  75%|██████████████████████████████          | 9/12 [3:33:41<1:05:58, 1319.35s/it]Computing neighbors:  83%|██████████████████████████████████▏      | 10/12 [3:54:59<43:33, 1306.75s/it]Computing neighbors:  92%|█████████████████████████████████████▌   | 11/12 [4:16:15<21:37, 1297.28s/it]Computing neighbors: 100%|█████████████████████████████████████████| 12/12 [4:37:08<00:00, 1283.62s/it]Computing neighbors: 100%|█████████████████████████████████████████| 12/12 [4:37:08<00:00, 1385.68s/it]
-Done checking for latents with non-unique number of neighbors
-Embeddings:   0%|[32m                                                               [0m| 0/12 [00:00<?, ?it/s][0m
-Metrics:   0%|[34m                                                                  [0m| 0/10 [00:00<?, ?it/s][0m[A
-Metrics:   0%|[34m                               [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m█▌              [0m| 1/10 [1:58:14<17:44:10, 7094.48s/it, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m▏ [0m| 1/10 [1:58:14<17:44:10, 7094.48s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m▌  [0m| 2/10 [2:10:51<7:28:51, 3366.46s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m███▏            [0m| 2/10 [2:10:51<7:28:51, 3366.46s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m████▊           [0m| 3/10 [2:59:52<6:10:05, 3172.17s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m██████▉                [0m| 3/10 [2:59:52<6:10:05, 3172.17s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m█████████▏             [0m| 4/10 [3:00:05<3:12:31, 1925.19s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m██████▍         [0m| 4/10 [3:00:05<3:12:31, 1925.19s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████        [0m| 5/10 [3:03:48<1:49:16, 1311.21s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m███████████▌           [0m| 5/10 [3:03:48<1:49:16, 1311.21s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m███████████████▌          [0m| 6/10 [3:04:01<57:59, 869.90s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m████████████▌        [0m| 6/10 [3:04:01<57:59, 869.90s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m██████████████▋      [0m| 7/10 [3:15:39<40:41, 813.76s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m███████████▉     [0m| 7/10 [3:15:39<40:41, 813.76s/it, Batch correction: graph_connectivity][0m[A
-Metrics:  80%|[34m█████████████▌   [0m| 8/10 [3:15:42<18:31, 555.60s/it, Batch correction: graph_connectivity][0m[AEmbeddings:   8%|[32m███▉                                           [0m| 1/12 [3:15:42<35:52:49, 11742.66s/it][0m
-Metrics:   0%|[34m                                                                  [0m| 0/10 [00:00<?, ?it/s][0m[A
-                                                                                                       [A
-Metrics:   0%|[34m                               [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m█▌              [0m| 1/10 [1:45:27<15:49:02, 6326.92s/it, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m▏ [0m| 1/10 [1:45:27<15:49:02, 6326.92s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m▌  [0m| 2/10 [1:59:15<6:52:22, 3092.76s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m███▏            [0m| 2/10 [1:59:15<6:52:22, 3092.76s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m████▊           [0m| 3/10 [2:35:31<5:11:57, 2673.87s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m██████▉                [0m| 3/10 [2:35:31<5:11:57, 2673.87s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m█████████▏             [0m| 4/10 [2:35:43<2:42:18, 1623.15s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m██████▍         [0m| 4/10 [2:35:43<2:42:18, 1623.15s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████        [0m| 5/10 [2:37:38<1:29:56, 1079.22s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m███████████▌           [0m| 5/10 [2:37:38<1:29:56, 1079.22s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m███████████████▌          [0m| 6/10 [2:37:51<47:46, 716.64s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m████████████▌        [0m| 6/10 [2:37:51<47:46, 716.64s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m██████████████▋      [0m| 7/10 [2:57:55<43:48, 876.00s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m███████████▉     [0m| 7/10 [2:57:55<43:48, 876.00s/it, Batch correction: graph_connectivity][0m[A
-Metrics:  80%|[34m█████████████▌   [0m| 8/10 [2:57:58<19:56, 598.02s/it, Batch correction: graph_connectivity][0m[AEmbeddings:  17%|[32m███████▊                                       [0m| 2/12 [6:13:40<30:52:44, 11116.42s/it][0m
-Metrics:   0%|[34m                                                                  [0m| 0/10 [00:00<?, ?it/s][0m[A
-                                                                                                       [A
-Metrics:   0%|[34m                               [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m█▌              [0m| 1/10 [1:39:37<14:56:41, 5977.90s/it, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m▏ [0m| 1/10 [1:39:37<14:56:41, 5977.90s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m▌  [0m| 2/10 [1:51:08<6:22:21, 2867.71s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m███▏            [0m| 2/10 [1:51:08<6:22:21, 2867.71s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m████▊           [0m| 3/10 [2:21:34<4:39:04, 2392.09s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m██████▉                [0m| 3/10 [2:21:34<4:39:04, 2392.09s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m█████████▏             [0m| 4/10 [2:21:47<2:25:15, 1452.66s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m██████▍         [0m| 4/10 [2:21:47<2:25:15, 1452.66s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████▌        [0m| 5/10 [2:22:55<1:19:26, 953.33s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████████            [0m| 5/10 [2:22:55<1:19:26, 953.33s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m███████████████▌          [0m| 6/10 [2:23:07<42:14, 633.53s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m████████████▌        [0m| 6/10 [2:23:07<42:14, 633.53s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m██████████████▋      [0m| 7/10 [2:43:03<40:51, 817.28s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m███████████▉     [0m| 7/10 [2:43:03<40:51, 817.28s/it, Batch correction: graph_connectivity][0m[A
-Metrics:  80%|[34m█████████████▌   [0m| 8/10 [2:43:06<18:35, 558.00s/it, Batch correction: graph_connectivity][0m[AEmbeddings:  25%|[32m███████████▊                                   [0m| 3/12 [8:56:46<26:16:21, 10509.02s/it][0m
-Metrics:   0%|[34m                                                                  [0m| 0/10 [00:00<?, ?it/s][0m[A
-                                                                                                       [A
-Metrics:   0%|[34m                               [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m█▌              [0m| 1/10 [1:39:37<14:56:33, 5977.09s/it, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m▏ [0m| 1/10 [1:39:37<14:56:33, 5977.09s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m▌  [0m| 2/10 [1:51:24<6:23:36, 2877.10s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m███▏            [0m| 2/10 [1:51:24<6:23:36, 2877.10s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m████▊           [0m| 3/10 [2:21:50<4:39:40, 2397.17s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m██████▉                [0m| 3/10 [2:21:50<4:39:40, 2397.17s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m█████████▏             [0m| 4/10 [2:22:02<2:25:34, 1455.71s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m██████▍         [0m| 4/10 [2:22:02<2:25:34, 1455.71s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████▌        [0m| 5/10 [2:23:06<1:19:29, 953.83s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████████            [0m| 5/10 [2:23:06<1:19:29, 953.83s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m███████████████▌          [0m| 6/10 [2:23:19<42:15, 633.86s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m████████████▌        [0m| 6/10 [2:23:19<42:15, 633.86s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m██████████████▋      [0m| 7/10 [2:40:48<38:29, 769.72s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m███████████▉     [0m| 7/10 [2:40:48<38:29, 769.72s/it, Batch correction: graph_connectivity][0m[A
-Metrics:  80%|[34m█████████████▌   [0m| 8/10 [2:40:51<17:31, 525.58s/it, Batch correction: graph_connectivity][0m[AEmbeddings:  33%|[32m███████████████▎                              [0m| 4/12 [11:37:38<22:36:04, 10170.55s/it][0m
-Metrics:   0%|[34m                                                                  [0m| 0/10 [00:00<?, ?it/s][0m[A
-                                                                                                       [A
-Metrics:   0%|[34m                               [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m█▌              [0m| 1/10 [1:39:37<14:56:41, 5977.95s/it, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m▏ [0m| 1/10 [1:39:37<14:56:41, 5977.95s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m▌  [0m| 2/10 [1:51:22<6:23:29, 2876.24s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m███▏            [0m| 2/10 [1:51:22<6:23:29, 2876.24s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m████▊           [0m| 3/10 [2:21:48<4:39:36, 2396.68s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m██████▉                [0m| 3/10 [2:21:48<4:39:36, 2396.68s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m█████████▏             [0m| 4/10 [2:22:01<2:25:32, 1455.34s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m██████▍         [0m| 4/10 [2:22:01<2:25:32, 1455.34s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████▌        [0m| 5/10 [2:23:05<1:19:28, 953.60s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████████            [0m| 5/10 [2:23:05<1:19:28, 953.60s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m███████████████▌          [0m| 6/10 [2:23:17<42:14, 633.69s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m████████████▌        [0m| 6/10 [2:23:17<42:14, 633.69s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m██████████████▋      [0m| 7/10 [2:45:02<42:38, 852.90s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m███████████▉     [0m| 7/10 [2:45:02<42:38, 852.90s/it, Batch correction: graph_connectivity][0m[A
-Metrics:  80%|[34m█████████████▌   [0m| 8/10 [2:45:04<19:24, 582.27s/it, Batch correction: graph_connectivity][0m[AEmbeddings:  42%|[32m███████████████████▏                          [0m| 5/12 [14:22:43<19:35:23, 10074.77s/it][0m
-Metrics:   0%|[34m                                                                  [0m| 0/10 [00:00<?, ?it/s][0m[A
-                                                                                                       [A
-Metrics:   0%|[34m                               [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m█▌              [0m| 1/10 [1:39:37<14:56:35, 5977.24s/it, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m▏ [0m| 1/10 [1:39:37<14:56:35, 5977.24s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m▌  [0m| 2/10 [1:51:28<6:23:57, 2879.74s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m███▏            [0m| 2/10 [1:51:28<6:23:57, 2879.74s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m████▊           [0m| 3/10 [2:21:54<4:39:49, 2398.55s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m██████▉                [0m| 3/10 [2:21:54<4:39:49, 2398.55s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m█████████▏             [0m| 4/10 [2:22:06<2:25:38, 1456.49s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m██████▍         [0m| 4/10 [2:22:06<2:25:38, 1456.49s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████▌        [0m| 5/10 [2:23:10<1:19:31, 954.35s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████████            [0m| 5/10 [2:23:10<1:19:31, 954.35s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m███████████████▌          [0m| 6/10 [2:23:23<42:16, 634.21s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m████████████▌        [0m| 6/10 [2:23:23<42:16, 634.21s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m██████████████▋      [0m| 7/10 [2:40:46<38:22, 767.57s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m███████████▉     [0m| 7/10 [2:40:46<38:22, 767.57s/it, Batch correction: graph_connectivity][0m[A
-Metrics:  80%|[34m█████████████▌   [0m| 8/10 [2:40:49<17:28, 524.22s/it, Batch correction: graph_connectivity][0m[AEmbeddings:  50%|[32m███████████████████████▌                       [0m| 6/12 [17:03:32<16:33:00, 9930.02s/it][0m
-Metrics:   0%|[34m                                                                  [0m| 0/10 [00:00<?, ?it/s][0m[A
-                                                                                                       [A
-Metrics:   0%|[34m                               [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m█▌              [0m| 1/10 [1:39:37<14:56:35, 5977.31s/it, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m▏ [0m| 1/10 [1:39:37<14:56:35, 5977.31s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m▌  [0m| 2/10 [1:51:13<6:22:45, 2870.63s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m███▏            [0m| 2/10 [1:51:13<6:22:45, 2870.63s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m████▊           [0m| 3/10 [2:21:39<4:39:15, 2393.65s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m██████▉                [0m| 3/10 [2:21:39<4:39:15, 2393.65s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m█████████▏             [0m| 4/10 [2:21:51<2:25:21, 1453.54s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m██████▍         [0m| 4/10 [2:21:51<2:25:21, 1453.54s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████▌        [0m| 5/10 [2:22:55<1:19:22, 952.53s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████████            [0m| 5/10 [2:22:55<1:19:22, 952.53s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m███████████████▌          [0m| 6/10 [2:23:08<42:12, 633.02s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m████████████▌        [0m| 6/10 [2:23:08<42:12, 633.02s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m██████████████▋      [0m| 7/10 [2:41:57<39:45, 795.03s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m███████████▉     [0m| 7/10 [2:41:57<39:45, 795.03s/it, Batch correction: graph_connectivity][0m[A
-Metrics:  80%|[34m█████████████▌   [0m| 8/10 [2:42:00<18:05, 542.82s/it, Batch correction: graph_connectivity][0m[AEmbeddings:  58%|[32m███████████████████████████▍                   [0m| 7/12 [19:45:32<13:41:46, 9861.37s/it][0m
-Metrics:   0%|[34m                                                                  [0m| 0/10 [00:00<?, ?it/s][0m[A
-                                                                                                       [A
-Metrics:   0%|[34m                               [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m█▌              [0m| 1/10 [1:39:36<14:56:32, 5976.94s/it, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m▏ [0m| 1/10 [1:39:36<14:56:32, 5976.94s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m▌  [0m| 2/10 [1:50:48<6:20:49, 2856.15s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m███▏            [0m| 2/10 [1:50:48<6:20:49, 2856.15s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m████▊           [0m| 3/10 [2:21:14<4:38:20, 2385.76s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m██████▉                [0m| 3/10 [2:21:14<4:38:20, 2385.76s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m█████████▏             [0m| 4/10 [2:21:26<2:24:52, 1448.76s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m██████▍         [0m| 4/10 [2:21:26<2:24:52, 1448.76s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████▌        [0m| 5/10 [2:22:30<1:19:06, 949.38s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████████            [0m| 5/10 [2:22:30<1:19:06, 949.38s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m███████████████▌          [0m| 6/10 [2:22:43<42:03, 630.93s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m████████████▌        [0m| 6/10 [2:22:43<42:03, 630.93s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m██████████████▋      [0m| 7/10 [2:41:31<39:40, 793.52s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m███████████▉     [0m| 7/10 [2:41:31<39:40, 793.52s/it, Batch correction: graph_connectivity][0m[A
-Metrics:  80%|[34m█████████████▌   [0m| 8/10 [2:41:34<18:03, 541.80s/it, Batch correction: graph_connectivity][0m[AEmbeddings:  67%|[32m███████████████████████████████▎               [0m| 8/12 [22:27:07<10:53:53, 9808.30s/it][0m
-Metrics:   0%|[34m                                                                  [0m| 0/10 [00:00<?, ?it/s][0m[A
-                                                                                                       [A
-Metrics:   0%|[34m                               [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m█▌              [0m| 1/10 [1:50:59<16:38:20, 6655.60s/it, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m▏ [0m| 1/10 [1:50:59<16:38:20, 6655.60s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m▌  [0m| 2/10 [2:04:33<7:09:32, 3221.60s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m███▏            [0m| 2/10 [2:04:33<7:09:32, 3221.60s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m████▊           [0m| 3/10 [2:46:18<5:37:40, 2894.33s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m██████▉                [0m| 3/10 [2:46:18<5:37:40, 2894.33s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m█████████▏             [0m| 4/10 [2:46:30<2:55:39, 1756.56s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m██████▍         [0m| 4/10 [2:46:30<2:55:39, 1756.56s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████        [0m| 5/10 [2:49:00<1:38:05, 1177.02s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m███████████▌           [0m| 5/10 [2:49:00<1:38:05, 1177.02s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m███████████████▌          [0m| 6/10 [2:49:13<52:05, 781.38s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m████████████▌        [0m| 6/10 [2:49:13<52:05, 781.38s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m██████████████▋      [0m| 7/10 [3:03:59<40:46, 815.47s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m███████████▉     [0m| 7/10 [3:03:59<40:46, 815.47s/it, Batch correction: graph_connectivity][0m[A
-Metrics:  80%|[34m█████████████▌   [0m| 8/10 [3:04:01<18:33, 556.76s/it, Batch correction: graph_connectivity][0m[AEmbeddings:  75%|[32m███████████████████████████████████▎           [0m| 9/12 [25:31:09<8:29:41, 10193.95s/it][0m
-Metrics:   0%|[34m                                                                  [0m| 0/10 [00:00<?, ?it/s][0m[A
-                                                                                                       [A
-Metrics:   0%|[34m                               [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m█▌              [0m| 1/10 [1:50:57<16:38:36, 6657.39s/it, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m▏ [0m| 1/10 [1:50:57<16:38:36, 6657.39s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m▌  [0m| 2/10 [2:04:15<7:08:06, 3210.84s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m███▏            [0m| 2/10 [2:04:15<7:08:06, 3210.84s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m████▊           [0m| 3/10 [2:46:00<5:36:59, 2888.49s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m██████▉                [0m| 3/10 [2:46:00<5:36:59, 2888.49s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m█████████▏             [0m| 4/10 [2:46:12<2:55:18, 1753.00s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m██████▍         [0m| 4/10 [2:46:12<2:55:18, 1753.00s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████        [0m| 5/10 [2:48:38<1:37:46, 1173.34s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m███████████▌           [0m| 5/10 [2:48:38<1:37:46, 1173.34s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m███████████████▌          [0m| 6/10 [2:48:51<51:54, 778.73s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m████████████▌        [0m| 6/10 [2:48:51<51:54, 778.73s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m██████████████▋      [0m| 7/10 [3:04:02<41:05, 821.95s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m███████████▉     [0m| 7/10 [3:04:02<41:05, 821.95s/it, Batch correction: graph_connectivity][0m[A
-Metrics:  80%|[34m█████████████▌   [0m| 8/10 [3:04:04<18:42, 561.16s/it, Batch correction: graph_connectivity][0m[AEmbeddings:  83%|[32m██████████████████████████████████████▎       [0m| 10/12 [28:35:14<5:48:33, 10456.63s/it][0m
-Metrics:   0%|[34m                                                                  [0m| 0/10 [00:00<?, ?it/s][0m[A
-                                                                                                       [A
-Metrics:   0%|[34m                               [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m█▌              [0m| 1/10 [1:50:57<16:38:36, 6657.44s/it, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m▏ [0m| 1/10 [1:50:57<16:38:36, 6657.44s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m▌  [0m| 2/10 [2:04:16<7:08:09, 3211.23s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m███▏            [0m| 2/10 [2:04:16<7:08:09, 3211.23s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m████▊           [0m| 3/10 [2:46:01<5:37:00, 2888.71s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m██████▉                [0m| 3/10 [2:46:01<5:37:00, 2888.71s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m█████████▏             [0m| 4/10 [2:46:13<2:55:19, 1753.26s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m██████▍         [0m| 4/10 [2:46:13<2:55:19, 1753.26s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████        [0m| 5/10 [2:48:39<1:37:47, 1173.45s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m███████████▌           [0m| 5/10 [2:48:39<1:37:47, 1173.45s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m███████████████▌          [0m| 6/10 [2:48:51<51:55, 778.80s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m████████████▌        [0m| 6/10 [2:48:51<51:55, 778.80s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m██████████████▋      [0m| 7/10 [3:04:04<41:07, 822.61s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m███████████▉     [0m| 7/10 [3:04:04<41:07, 822.61s/it, Batch correction: graph_connectivity][0m[A
-Metrics:  80%|[34m█████████████▌   [0m| 8/10 [3:04:07<18:43, 561.63s/it, Batch correction: graph_connectivity][0m[AEmbeddings:  92%|[32m██████████████████████████████████████████▏   [0m| 11/12 [31:39:21<2:57:17, 10637.49s/it][0m
-Metrics:   0%|[34m                                                                  [0m| 0/10 [00:00<?, ?it/s][0m[A
-                                                                                                       [A
-Metrics:   0%|[34m                               [0m| 0/10 [00:00<?, ?it/s, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m█▌              [0m| 1/10 [1:50:57<16:38:36, 6657.36s/it, Bio conservation: isolated_labels][0m[A
-Metrics:  10%|[34m▏ [0m| 1/10 [1:50:57<16:38:36, 6657.36s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m▌  [0m| 2/10 [2:04:41<7:10:08, 3226.05s/it, Bio conservation: nmi_ari_cluster_labels_leiden][0m[A
-Metrics:  20%|[34m███▏            [0m| 2/10 [2:04:41<7:10:08, 3226.05s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m████▊           [0m| 3/10 [2:46:26<5:37:57, 2896.76s/it, Bio conservation: silhouette_label][0m[A
-Metrics:  30%|[34m██████▉                [0m| 3/10 [2:46:26<5:37:57, 2896.76s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m█████████▏             [0m| 4/10 [2:46:38<2:55:48, 1758.00s/it, Bio conservation: clisi_knn][0m[A
-Metrics:  40%|[34m██████▍         [0m| 4/10 [2:46:38<2:55:48, 1758.00s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m████████        [0m| 5/10 [2:49:04<1:38:02, 1176.48s/it, Batch correction: silhouette_batch][0m[A
-Metrics:  50%|[34m███████████▌           [0m| 5/10 [2:49:04<1:38:02, 1176.48s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m███████████████▌          [0m| 6/10 [2:49:16<52:03, 780.81s/it, Batch correction: ilisi_knn][0m[A
-Metrics:  60%|[34m████████████▌        [0m| 6/10 [2:49:16<52:03, 780.81s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m██████████████▋      [0m| 7/10 [3:02:13<38:57, 779.31s/it, Batch correction: kbet_per_label][0m[A
-Metrics:  70%|[34m███████████▉     [0m| 7/10 [3:02:13<38:57, 779.31s/it, Batch correction: graph_connectivity][0m[A
-Metrics:  80%|[34m█████████████▌   [0m| 8/10 [3:02:15<17:44, 532.11s/it, Batch correction: graph_connectivity][0m[AEmbeddings: 100%|[32m████████████████████████████████████████████████[0m| 12/12 [34:41:37<00:00, 10728.25s/it][0mEmbeddings: 100%|[32m████████████████████████████████████████████████[0m| 12/12 [34:41:37<00:00, 10408.12s/it][0m
-
-                                                                                                       [A
