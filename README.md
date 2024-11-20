@@ -7,6 +7,10 @@ Reproducibility repository for the [Human Neural Organoid Atlas publication](htt
 ![Abstract](https://raw.githubusercontent.com/theislab/neural_organoid_atlas/main/supplemental_files/abstract.jpg)
 
 
+> **Note**
+> :construction: We are currently collecting and uploading all notebooks used in this analysis.
+> This note wil disappear as soon as all code has been made available via this page.
+
 The repository is organized based on the main figures in the manuscript the analysis is linked with:
 * `Fig1_HNOCA_establishment/`: codes and Jupyter notebooks related to Fig1, about the establishment of HNOCA including data curation and integration, integration benchmarking, cell type annotation and real time-informed pseudotime analysis with moscot neural OT.
 * `Fig2_map_to_primary/`: codes and Jupyter notebooks related to Fig2, about the data projection and label transfer of HNOCA to the human developing brain cell atlas ([Braun et al. 2023](https://www.science.org/doi/10.1126/science.adf1226)), as well as compositional analysis of morphogen usage.
